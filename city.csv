@@ -1,0 +1,15 @@
+city_id,city_name,population,estimated_rent,city_rank
+1,Kuala Lumpur,1800000,2500,2
+2,George Town,710000,1500,7
+3,Ipoh,760000,1200,10
+4,Johor Bahru,497000,1800,5
+5,Shah Alam,650000,2000,3
+6,Petaling Jaya,640000,2200,1
+7,Kuching,570000,1600,6
+8,Kota Bharu,500000,1000,12
+9,Malacca City,455000,1300,8
+10,Alor Setar,405000,900,13
+11,Seremban,390000,1100,11
+12,Kuantan,380000,1000,12
+13,Kangar,48000,800,14
+14,Putrajaya,90000,1500,7

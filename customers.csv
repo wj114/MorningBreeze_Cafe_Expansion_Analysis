@@ -1,0 +1,497 @@
+customer_id,customer_name,city_id
+1,Tan Wei Ling,1
+2,Ahmad bin Ismail,1
+3,Priya Devi,1
+4,Lim Mei Ling,1
+5,Siti Nurhaliza,1
+6,Rajesh Kumar,1
+7,Wong Chee Meng,1
+8,Mohd Ali bin Hassan,1
+9,Anand Singh,1
+10,Lee Ying Hui,1
+11,Nurul Syafiqah,1
+12,Kavitha Raj,1
+13,Chong Mei Fong,1
+14,Abdul Rahman bin Yusof,1
+15,Deepak Sharma,1
+16,Tan Kok Wai,1
+17,Siti Aishah,1
+18,Ramesh Patel,1
+19,Lim Swee Lin,1
+20,Mohd Firdaus bin Ahmad,1
+21,Gopal Krishnan,1
+22,Ng Pei Ling,1
+23,Siti Fatimah,1
+24,Arvind Singh,1
+25,Tan Cheng Hoe,1
+26,Ahmad Fauzi bin Mohd,1
+27,Krishnan Nair,1
+28,Lim Hui Min,1
+29,Siti Zaharah,1
+30,Vijay Kumar,1
+31,Wong Siew Chin,1
+32,Mohd Hafiz bin Ali,1
+33,Anjali Devi,1
+34,Chong Wei Ling,1
+35,Siti Noraini,1
+36,Rajendra Prasad,1
+37,Tan Mei Fong,1
+38,Ahmad Syafiq bin Ismail,1
+39,Priya Kumari,2
+40,Lim Chee Beng,2
+41,Siti Aisyah,2
+42,Kumar Raj,2
+43,Ng Mei Ling,2
+44,Mohd Azman bin Yusof,2
+45,Deepa Sharma,2
+46,Tan Kok Leong,2
+47,Siti Nurul,2
+48,Ravi Patel,2
+49,Lim Siew Lin,2
+50,Mohd Firdaus bin Ali,2
+51,Gopal Nair,2
+52,Ng Pei Yee,2
+53,Siti Mariam,2
+54,Arjun Singh,2
+55,Tan Cheng Hock,2
+56,Ahmad Fauzi bin Mohd,2
+57,Krishnan Menon,2
+58,Lim Hui Ling,2
+59,Siti Zainab,2
+60,Vijay Menon,2
+61,Wong Siew Mei,2
+62,Mohd Hafiz bin Yusof,2
+63,Anjali Kumari,2
+64,Chong Wei Min,2
+65,Siti Norhayati,2
+66,Rajendra Kumar,2
+67,Tan Mei Ling,2
+68,Ahmad Syafiq bin Yusof,2
+69,Priya Nair,2
+70,Lim Chee Seng,2
+71,Siti Aisyah,2
+72,Kumar Menon,2
+73,Ng Mei Yee,2
+74,Mohd Azman bin Ali,2
+75,Deepa Devi,2
+76,Tan Kok Seng,2
+77,Siti Nurul Ain,2
+78,Ravi Kumar,2
+79,Lim Siew Yee,2
+80,Mohd Firdaus bin Yusof,2
+81,Gopal Menon,3
+82,Ng Pei Lin,3
+83,Siti Mariam,3
+84,Arjun Kumar,3
+85,Tan Cheng Hock,3
+86,Ahmad Fauzi bin Yusof,3
+87,Krishnan Nair,3
+88,Lim Hui Yee,3
+89,Siti Zainab,3
+90,Vijay Nair,3
+91,Wong Siew Lin,3
+92,Mohd Hafiz bin Ali,3
+93,Anjali Nair,3
+94,Chong Wei Yee,3
+95,Siti Norhayati,3
+96,Rajendra Menon,3
+97,Tan Mei Yee,3
+98,Ahmad Syafiq bin Ali,3
+99,Priya Menon,3
+100,Lim Chee Lin,3
+101,Siti Aisyah,3
+102,Kumar Nair,3
+103,Ng Mei Lin,3
+104,Mohd Azman bin Yusof,3
+105,Deepa Nair,3
+106,Tan Kok Lin,3
+107,Siti Nurul Ain,3
+108,Ravi Menon,3
+109,Lim Siew Lin,3
+110,Mohd Firdaus bin Ali,3
+111,Gopal Nair,3
+112,Ng Pei Yee,3
+113,Siti Mariam,3
+114,Arjun Menon,3
+115,Tan Cheng Hock,3
+116,Ahmad Fauzi bin Yusof,3
+117,Krishnan Nair,3
+118,Lim Hui Lin,3
+119,Siti Zainab,3
+120,Vijay Nair,3
+121,Wong Siew Yee,3
+122,Mohd Hafiz bin Yusof,3
+123,Anjali Nair,3
+124,Chong Wei Lin,3
+125,Siti Norhayati,3
+126,Rajendra Nair,3
+127,Tan Mei Lin,3
+128,Ahmad Syafiq bin Yusof,3
+129,Priya Nair,3
+130,Lim Chee Yee,3
+131,Siti Aisyah,3
+132,Kumar Nair,3
+133,Ng Mei Yee,4
+134,Mohd Azman bin Ali,4
+135,Deepa Nair,4
+136,Tan Kok Yee,4
+137,Siti Nurul Ain,4
+138,Ravi Nair,4
+139,Lim Siew Yee,4
+140,Mohd Firdaus bin Yusof,4
+141,Gopal Nair,4
+142,Ng Pei Lin,4
+143,Siti Mariam,4
+144,Arjun Nair,4
+145,Tan Cheng Hock,4
+146,Ahmad Fauzi bin Yusof,4
+147,Krishnan Nair,4
+148,Lim Hui Yee,4
+149,Siti Zainab,4
+150,Vijay Nair,4
+151,Wong Siew Lin,4
+152,Mohd Hafiz bin Ali,4
+153,Anjali Nair,4
+154,Chong Wei Yee,4
+155,Siti Norhayati,4
+156,Rajendra Nair,4
+157,Tan Mei Yee,4
+158,Ahmad Syafiq bin Ali,4
+159,Priya Nair,4
+160,Lim Chee Lin,4
+161,Siti Aisyah,4
+162,Kumar Nair,4
+163,Ng Mei Lin,4
+164,Mohd Azman bin Yusof,4
+165,Deepa Nair,4
+166,Tan Kok Lin,4
+167,Siti Nurul Ain,4
+168,Ravi Nair,4
+169,Lim Siew Lin,4
+170,Mohd Firdaus bin Ali,4
+171,Gopal Nair,4
+172,Ng Pei Yee,4
+173,Siti Mariam,4
+174,Arjun Nair,4
+175,Tan Cheng Hock,4
+176,Ahmad Fauzi bin Yusof,4
+177,Krishnan Nair,4
+178,Lim Hui Lin,4
+179,Siti Zainab,4
+180,Vijay Nair,4
+181,Wong Siew Yee,4
+182,Mohd Hafiz bin Yusof,4
+183,Anjali Nair,4
+184,Chong Wei Lin,4
+185,Siti Norhayati,4
+186,Rajendra Nair,4
+187,Tan Mei Lin,4
+188,Ahmad Syafiq bin Yusof,4
+189,Priya Nair,4
+190,Lim Chee Yee,4
+191,Siti Aisyah,4
+192,Kumar Nair,4
+193,Ng Mei Yee,4
+194,Mohd Azman bin Ali,4
+195,Deepa Nair,4
+196,Tan Kok Yee,4
+197,Siti Nurul Ain,4
+198,Ravi Nair,4
+199,Lim Siew Yee,4
+200,Mohd Firdaus bin Yusof,4
+201,Gopal Nair,4
+202,Ng Pei Lin,5
+203,Siti Mariam,5
+204,Arjun Nair,5
+205,Tan Cheng Hock,5
+206,Ahmad Fauzi bin Yusof,5
+207,Krishnan Nair,5
+208,Lim Hui Yee,5
+209,Siti Zainab,5
+210,Vijay Nair,5
+211,Wong Siew Lin,5
+212,Mohd Hafiz bin Ali,5
+213,Anjali Nair,5
+214,Chong Wei Yee,5
+215,Siti Norhayati,5
+216,Rajendra Nair,5
+217,Tan Mei Yee,5
+218,Ahmad Syafiq bin Ali,5
+219,Priya Nair,5
+220,Lim Chee Lin,5
+221,Siti Aisyah,5
+222,Kumar Nair,5
+223,Ng Mei Lin,5
+224,Mohd Azman bin Yusof,5
+225,Deepa Nair,5
+226,Tan Kok Lin,5
+227,Siti Nurul Ain,5
+228,Ravi Nair,5
+229,Lim Siew Lin,5
+230,Mohd Firdaus bin Ali,5
+231,Gopal Nair,5
+232,Ng Pei Yee,5
+233,Siti Mariam,5
+234,Arjun Nair,5
+235,Tan Cheng Hock,5
+236,Ahmad Fauzi bin Yusof,5
+237,Krishnan Nair,5
+238,Lim Hui Lin,5
+239,Siti Zainab,5
+240,Vijay Nair,5
+241,Wong Siew Yee,5
+242,Mohd Hafiz bin Yusof,5
+243,Anjali Nair,5
+244,Chong Wei Lin,5
+245,Siti Norhayati,5
+246,Rajendra Nair,5
+247,Tan Mei Lin,5
+248,Ahmad Syafiq bin Yusof,5
+249,Priya Nair,5
+250,Lim Chee Yee,5
+251,Siti Aisyah,5
+252,Kumar Nair,5
+253,Ng Mei Yee,5
+254,Mohd Azman bin Ali,5
+255,Deepa Nair,5
+256,Tan Kok Yee,5
+257,Siti Nurul Ain,5
+258,Ravi Nair,5
+259,Lim Siew Yee,5
+260,Mohd Firdaus bin Yusof,5
+261,Gopal Nair,5
+262,Ng Pei Lin,5
+263,Siti Mariam,5
+264,Arjun Nair,5
+265,Tan Cheng Hock,5
+266,Ahmad Fauzi bin Yusof,5
+267,Krishnan Nair,5
+268,Lim Hui Yee,5
+269,Siti Zainab,5
+270,Vijay Nair,6
+271,Wong Siew Lin,6
+272,Mohd Hafiz bin Ali,6
+273,Anjali Nair,6
+274,Chong Wei Yee,6
+275,Siti Norhayati,6
+276,Rajendra Nair,6
+277,Tan Mei Yee,6
+278,Ahmad Syafiq bin Ali,6
+279,Priya Nair,6
+280,Lim Chee Lin,6
+281,Siti Aisyah,6
+282,Kumar Nair,6
+283,Ng Mei Lin,6
+284,Mohd Azman bin Yusof,6
+285,Deepa Nair,6
+286,Tan Kok Lin,6
+287,Siti Nurul Ain,6
+288,Ravi Nair,6
+289,Lim Siew Lin,6
+290,Mohd Firdaus bin Ali,6
+291,Gopal Nair,6
+292,Ng Pei Yee,6
+293,Siti Mariam,6
+294,Arjun Nair,6
+295,Tan Cheng Hock,6
+296,Ahmad Fauzi bin Yusof,6
+297,Krishnan Nair,7
+298,Lim Hui Lin,7
+299,Siti Zainab,7
+300,Vijay Nair,7
+301,Wong Siew Yee,7
+302,Mohd Hafiz bin Yusof,7
+303,Anjali Nair,7
+304,Chong Wei Lin,7
+305,Siti Norhayati,7
+306,Rajendra Nair,7
+307,Tan Mei Lin,7
+308,Ahmad Syafiq bin Yusof,7
+309,Priya Nair,7
+310,Lim Chee Yee,7
+311,Siti Aisyah,7
+312,Kumar Nair,7
+313,Ng Mei Yee,7
+314,Mohd Azman bin Ali,7
+315,Deepa Nair,7
+316,Tan Kok Yee,7
+317,Siti Nurul Ain,7
+318,Ravi Nair,8
+319,Lim Siew Yee,8
+320,Mohd Firdaus bin Yusof,8
+321,Gopal Nair,8
+322,Ng Pei Lin,8
+323,Siti Mariam,8
+324,Arjun Nair,8
+325,Tan Cheng Hock,8
+326,Ahmad Fauzi bin Yusof,8
+327,Krishnan Nair,8
+328,Lim Hui Yee,8
+329,Siti Zainab,8
+330,Vijay Nair,8
+331,Wong Siew Lin,8
+332,Mohd Hafiz bin Ali,8
+333,Anjali Nair,8
+334,Chong Wei Yee,8
+335,Siti Norhayati,8
+336,Rajendra Nair,8
+337,Tan Mei Yee,8
+338,Ahmad Syafiq bin Ali,8
+339,Priya Nair,8
+340,Lim Chee Lin,8
+341,Siti Aisyah,9
+342,Kumar Nair,9
+343,Ng Mei Lin,9
+344,Mohd Azman bin Yusof,9
+345,Deepa Nair,9
+346,Tan Kok Lin,9
+347,Siti Nurul Ain,9
+348,Ravi Nair,9
+349,Lim Siew Lin,9
+350,Mohd Firdaus bin Ali,9
+351,Gopal Nair,9
+352,Ng Pei Yee,9
+353,Siti Mariam,9
+354,Arjun Nair,9
+355,Tan Cheng Hock,9
+356,Ahmad Fauzi bin Yusof,9
+357,Krishnan Nair,9
+358,Lim Hui Lin,9
+359,Siti Zainab,9
+360,Vijay Nair,9
+361,Wong Siew Yee,9
+362,Mohd Hafiz bin Yusof,9
+363,Anjali Nair,9
+364,Chong Wei Lin,9
+365,Siti Norhayati,9
+366,Rajendra Nair,9
+367,Tan Mei Lin,9
+368,Ahmad Syafiq bin Yusof,9
+369,Priya Nair,10
+370,Lim Chee Yee,10
+371,Siti Aisyah,10
+372,Kumar Nair,10
+373,Ng Mei Yee,10
+374,Mohd Azman bin Ali,10
+375,Deepa Nair,10
+376,Tan Kok Yee,10
+377,Siti Nurul Ain,10
+378,Ravi Nair,10
+379,Lim Siew Yee,10
+380,Mohd Firdaus bin Yusof,10
+381,Gopal Nair,10
+382,Ng Pei Lin,10
+383,Siti Mariam,10
+384,Arjun Nair,10
+385,Tan Cheng Hock,10
+386,Ahmad Fauzi bin Yusof,10
+387,Krishnan Nair,10
+388,Lim Hui Yee,10
+389,Siti Zainab,10
+390,Vijay Nair,10
+391,Wong Siew Lin,10
+392,Mohd Hafiz bin Ali,10
+393,Anjali Nair,10
+394,Chong Wei Yee,10
+395,Siti Norhayati,10
+396,Rajendra Nair,11
+397,Tan Mei Yee,11
+398,Ahmad Syafiq bin Ali,11
+399,Priya Nair,11
+400,Lim Chee Lin,11
+401,Siti Aisyah,11
+402,Kumar Nair,11
+403,Ng Mei Lin,11
+404,Mohd Azman bin Yusof,11
+405,Deepa Nair,11
+406,Tan Kok Lin,11
+407,Siti Nurul Ain,11
+408,Ravi Nair,11
+409,Lim Siew Lin,11
+410,Mohd Firdaus bin Ali,11
+411,Gopal Nair,11
+412,Ng Pei Yee,11
+413,Siti Mariam,11
+414,Arjun Nair,11
+415,Tan Cheng Hock,11
+416,Ahmad Fauzi bin Yusof,11
+417,Krishnan Nair,12
+418,Lim Hui Lin,12
+419,Siti Zainab,12
+420,Vijay Nair,12
+421,Wong Siew Yee,12
+422,Mohd Hafiz bin Yusof,12
+423,Anjali Nair,12
+424,Chong Wei Lin,12
+425,Siti Norhayati,12
+426,Rajendra Nair,12
+427,Tan Mei Lin,12
+428,Ahmad Syafiq bin Yusof,12
+429,Priya Nair,12
+430,Lim Chee Yee,12
+431,Siti Aisyah,12
+432,Kumar Nair,12
+433,Ng Mei Yee,12
+434,Mohd Azman bin Ali,12
+435,Deepa Nair,12
+436,Tan Kok Yee,12
+437,Siti Nurul Ain,12
+438,Ravi Nair,12
+439,Lim Siew Yee,12
+440,Mohd Firdaus bin Yusof,12
+441,Gopal Nair,12
+442,Ng Pei Lin,12
+443,Siti Mariam,12
+444,Arjun Nair,12
+445,Tan Cheng Hock,12
+446,Ahmad Fauzi bin Yusof,12
+447,Krishnan Nair,12
+448,Lim Hui Yee,12
+449,Siti Zainab,12
+450,Vijay Nair,12
+451,Wong Siew Lin,12
+452,Mohd Hafiz bin Ali,13
+453,Anjali Nair,13
+454,Chong Wei Yee,13
+455,Siti Norhayati,13
+456,Rajendra Nair,13
+457,Tan Mei Yee,13
+458,Ahmad Syafiq bin Ali,13
+459,Priya Nair,13
+460,Lim Chee Lin,13
+461,Siti Aisyah,13
+462,Kumar Nair,13
+463,Ng Mei Lin,13
+464,Mohd Azman bin Yusof,13
+465,Deepa Nair,13
+466,Tan Kok Lin,13
+467,Siti Nurul Ain,13
+468,Ravi Nair,13
+469,Lim Siew Lin,13
+470,Mohd Firdaus bin Ali,13
+471,Gopal Nair,13
+472,Ng Pei Yee,13
+473,Siti Mariam,13
+474,Arjun Nair,13
+475,Tan Cheng Hock,13
+476,Ahmad Fauzi bin Yusof,14
+477,Krishnan Nair,14
+478,Lim Hui Lin,14
+479,Siti Zainab,14
+480,Vijay Nair,14
+481,Wong Siew Yee,14
+482,Mohd Hafiz bin Yusof,14
+483,Anjali Nair,14
+484,Chong Wei Lin,14
+485,Siti Norhayati,14
+486,Rajendra Nair,14
+487,Tan Mei Lin,14
+488,Ahmad Syafiq bin Yusof,14
+489,Priya Nair,14
+490,Lim Chee Yee,14
+491,Siti Aisyah,14
+492,Kumar Nair,14
+493,Ng Mei Yee,14
+494,Mohd Azman bin Ali,14
+495,Deepa Nair,14
+496,Tan Kok Yee,14
